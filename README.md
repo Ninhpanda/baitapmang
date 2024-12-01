@@ -22,5 +22,6 @@ Client gửi: <SESSION_END>session987</SESSION_END> Server ngừng phát video c
 4 .Kiểm tra trạng thái:
 
 Client gửi: <STATUS_REQ>session987</STATUS_REQ> Server trả: <STATUS_OK>session987|FPS:30|Resolution:1920x1080</STATUS_OK> Video minh họa
-https://github.com/user-attachments/assets/49a7de3c-929d-4cb6-8424-f29ba182c6f1
+
+https://github.com/user-attachments/assets/41fbcfc3-56d6-49e9-9f4c-eb8e412890e9
 
