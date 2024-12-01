@@ -1,4 +1,4 @@
-# baitapmang
+# vuvanninh+nghiemquytruong
 Phần mềm phát video trong mạng LAN 1.Giới thiệu phầm mềm Video để ở máy phát (chạy chương trình phát video, các máy join vào group này có thể xem video đó, việc phát này giống như đang livestream trên máy phát) 2.Chức năng
 
 1. Đọc và chia nhỏ video • Sử dụng thư viện như JavaCV (dựa trên FFmpeg) để đọc video và trích xuất từng khung hình hoặc từng đoạn video nhỏ. • Cắt video thành các đoạn ngắn, hoặc thành từng khung hình (nếu cần) và lưu tạm vào bộ nhớ hoặc lưu tạm ra đĩa.
